@@ -47,7 +47,7 @@ base=["@jcunniet","@PaulLampon","@Aziliz31","@ssoumier","@marionsouzeau","@gaell
 
 		puts "il y a #{combien_mot(base,"Aude")} pseudos contenant Aude dans la base de données"
 
-#Méthode qui compte le nombre de pseudos commençant par une majuscule après un @
+#Méthode qui compte le nombre de pseudos commençant par un majuscule quelque soit le symbole avant
 
 		def combien_majuscule(liste)
 			
